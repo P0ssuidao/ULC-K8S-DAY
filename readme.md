@@ -13,4 +13,6 @@ Regras:
 * Pode editar qualquer recurso.
 * A CNI está instalada corretamente.
 * O Ingress Controller está instalado corretamente.
-* O service para acesso  o Ingress Controller está na porta 31211. O Cluster só possui uma máquina.Não é permitido fazer o reset do cluster
+* O service para acesso  o Ingress Controller está na porta 31211. 
+* O Cluster só possui uma máquina.
+* Não é permitido fazer o reset do cluster
